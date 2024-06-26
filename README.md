@@ -4,4 +4,4 @@
 
 ```bash
 sudo su
-```bash
+```
