@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-# python 3.3.2+ Hammer Dos Script v.1
-# by Can Yalçın
+# python 3.3.2+ Hammer Dos Script v2024.6.0
+# by anandpathak1
 # only for legal purpose
 
 
@@ -75,7 +75,7 @@ def dos2():
 
 
 def usage():
-	print (''' \033[92m	Hammer Dos Script v.1 http://www.canyalcin.com/
+	print (''' \033[92m	Hammer Dos Script v2024.6.0
 	It is the end user's responsibility to obey all applicable laws.
 	It is just for server testing script. Your ip is visible. \n
 	usage : python3 hammer.py [-s] [-p] [-t]
