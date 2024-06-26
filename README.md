@@ -11,11 +11,11 @@ apt update -y
 ```
 
 ```bash
-git clone https://github.com/anandpathak1/hammer
+git clone https://github.com/anandpathak1/hammer-2024
 ```
 
 ```bash
-cd hammer
+cd hammer-2024
 ```
 
 ```bash
