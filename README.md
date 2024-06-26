@@ -7,21 +7,21 @@ sudo su
 ```
 
 ```bash
-sudo su
+apt update -y
 ```
 
 ```bash
-sudo su
+git clone https://github.com/anandpathak1/hammer
 ```
 
 ```bash
-sudo su
+cd hammer
 ```
 
 ```bash
-sudo su
+chmod +x *
 ```
 
 ```bash
-sudo su
+hah
 ```
