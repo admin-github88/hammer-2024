@@ -23,5 +23,9 @@ chmod +x *
 ```
 
 ```bash
-hah
+./hammer.py -h
+```
+
+```bash
+./hammer.py -s facebook.com -p 80 -t 135
 ```
